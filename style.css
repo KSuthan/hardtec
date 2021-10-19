@@ -1,0 +1,48 @@
+
+
+  header {
+    padding: 20px 100px 10px 100px;
+    background-color: white;
+  }  
+  h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
+    display: inline;
+  }
+  header a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  header nav {
+    float: right;
+    margin: 7px 0;
+  }
+  
+  header nav ul li {
+    display: inline;
+  }
+  
+  header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+  }
+
+h3 {text-align: center;}
+
+h2{text-align: center;}
+
+
+img {padding: 0px 20%;
+}
+
+
+
+  footer {padding-right: 1cm;}
+
+main {
+  height: 2000px;
+}
